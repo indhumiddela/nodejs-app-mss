@@ -17,3 +17,4 @@ sonarqubeScanner({
           //'sonar.inclusions' : 'src/**'
        },
 }, () => {});
+indhu=sai
